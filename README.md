@@ -1,1 +1,1 @@
-# quyntess.calculator
+This project is to develop a Web Servlet using Java to receive an API request to calculate mathematical equations and calls mathjs to get teh answers. The data is stored in SQL database. 
